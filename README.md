@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
+# nuxt-i18n
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a Nuxt project template with internationalization (i18n).
 
-## Setup
+Find out more about this repository on the [Polygot's blog](https://polygothq.com/blog).
 
-Make sure to install dependencies:
+## Tech stack
+
+- [Nuxt v3.14](https://nuxt.com/)
+- [Nuxt i18n module v9](https://nuxt.com/modules/i18n)
+- Typescript
+
+## Features
+
+- internationalization mecanism
+- localization in English and French
+- language select button
+- route-based locale selection
+- lazy loading
+- automation-ready for [Polygot](https://polygothq.com)
+
+## Dev
 
 ```bash
-# npm
+cd nuxt-i18n
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## About Polygot
 
-Build the application for production:
+Polygot is the fastest way to localize your projects.
 
-```bash
-# npm
-npm run build
+Scale your website or app globally with Polygot's AI localization engine. Generate, manage, and continuously update translations in minutes.
 
-# pnpm
-pnpm build
+[Give it a try for free](https://polygothq.com).
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+[<img src="/logo.svg" width="200" />](https://polygothq.com)

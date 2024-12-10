@@ -1,0 +1,9 @@
+{
+  "projectId": 0,
+  "i18nConfigs": [
+    {
+      "source": "i18n/locales/en.json",
+      "target": "i18n/locales/%lang%.%ext%"
+    }
+  ]
+}
