@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to our new Nuxt app!"
+  },
+  "about": {
+    "title": "About us",
+    "content": "Here is some content about our company..."
+  }
+}
